@@ -1,8 +1,8 @@
 ### Hi there 👋  i am Vasiliy 'Chekhov' Adushkin 🦉
 
-- 🔭 I’m currently working on LLC VPMAUTO like a IT Chef
+- 🔭 I’m currently working on [VPMAUTO LLC](https://smazka.ru) like a IT Chef
 
-- 🙌 Lerbee Copr like a CTO and Co-founder
+- 🙌 [Lerbee](https://promo.lerbee.com/en) Copr like a CTO and Co-founder
 
 - 🌱 I’m learning Golang and Flutter!
 
